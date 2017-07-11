@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "c4a18526-0e6f-4750-afb3-3bc6ec553bec",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "medal_img": {
+      "ver": "1.0.3",
+      "uuid": "33eabf55-b15b-4848-a9c4-af5e54cb6b60",
+      "rawTextureUuid": "c4a18526-0e6f-4750-afb3-3bc6ec553bec",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 1,
+      "offsetY": 0.5,
+      "trimX": 2,
+      "trimY": 0,
+      "width": 69,
+      "height": 65,
+      "rawWidth": 71,
+      "rawHeight": 66,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

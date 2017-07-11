@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "13ea0d97-d94e-428f-a4dc-e5195e896948",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "hall_girleye_img": {
+      "ver": "1.0.3",
+      "uuid": "e01b9619-e160-412d-b648-7cac2d9dd719",
+      "rawTextureUuid": "13ea0d97-d94e-428f-a4dc-e5195e896948",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 51,
+      "height": 47,
+      "rawWidth": 51,
+      "rawHeight": 47,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}
